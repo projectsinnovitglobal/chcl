@@ -1,0 +1,35 @@
+{
+ "allow_tests": true,
+ "backup_encryption_key": "OKq17N78rrE_Qaa_z8twXUgBvGFJHX2njtOquYqeBQU=",
+ "db_name": "_fce178db1ed86939",
+ "db_password": "IRE6lWM6n08KMJmk",
+ "db_type": "mariadb",
+ "developer_mode": 1,
+ "encryption_key": "0EFbhbSL4sa2qcnr8PrTaSg4J7S35aowCP0CV-ySw5g=",
+ "host_name": "https://54.165.92.151",
+ "loan_eligibility_test_override": {
+  "employee": "MBC/HR/00001",
+  "enabled": 1,
+  "expires_on": "2026-09-16 14:20:27.751018",
+  "reason": "User-authorized loan-flow verification despite zero eligible salary; applies only to this employee.",
+  "user": "nazeerulhasan786@gmail.com"
+ },
+ "loan_eligibility_test_overrides": [
+  {
+   "employee": "MBC/HR/00001",
+   "enabled": 1,
+   "expires_on": "2026-10-21 23:59:59",
+   "reason": "User-authorized end-to-end loan process verification",
+   "user": "nazeerulhasan786@gmail.com"
+  },
+  {
+   "employee": "MBC/HR/00003",
+   "enabled": 1,
+   "expires_on": "2026-10-21 23:59:59",
+   "reason": "User-authorized end-to-end loan process verification",
+   "user": "shadabemployee@yopmail.com"
+  }
+ ],
+ "maintenance_mode": 0,
+ "pause_scheduler": false
+}
